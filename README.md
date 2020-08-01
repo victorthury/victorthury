@@ -31,6 +31,7 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][linkedin]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][linkedin]
 
+<br />
 ---
 
 <img align="left" alt="victorthury's Github stats" src="https://github-readme-stats.vercel.app/api?username=victorthury&show_icons=true&hide_border=true&count_private=true&theme=dracula" /> 
