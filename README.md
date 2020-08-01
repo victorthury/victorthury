@@ -1,10 +1,10 @@
 ### Hi there, I'm Victor Thury
 
 ## I'm a student, Developer and intern!
-- I'm currently working at Linx
-- Studying CS in UFAM
-- Focusing in Frontend development
-- Exercising my skills in clean code and design patterns
+- 💻 I'm currently working at Linx
+- 🎓 Studying CS in UFAM
+- 📓 Focusing in Frontend development
+- 💪🏼 Exercising my skills in clean code and design patterns
 
 ### Connect with me:
 [<img align="left" alt="victorthury | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
